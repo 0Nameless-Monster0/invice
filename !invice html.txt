@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Invice - Investment Advice in Egypt</title>
+</head>
+<body>
+
+<!-- Header -->
+<h1>Welcome to Invice</h1>
+
+<!-- Introduction -->
+<p>
+    Invice is your trusted source for investment advice in Egypt. We provide expert guidance and insights for both organizations and individual investors looking to navigate the Egyptian market.
+</p>
+
+<!-- Learn More Button -->
+<a href="https://www.investinegypt.gov.eg/English/Pages/default.aspx" target="_blank">Learn More</a>
+
+<!-- Footer -->
+<footer>
+    &copy; 2023 Invice. All rights reserved.
+</footer>
+
+</body>
+</html>
